@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitexercise3\\gitexercise3.csproj": {}
+    "d:\\gitexercise3\\gitexercise3.csproj": {}
   },
   "projects": {
-    "D:\\gitexercise3\\gitexercise3.csproj": {
+    "d:\\gitexercise3\\gitexercise3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitexercise3\\gitexercise3.csproj",
+        "projectUniqueName": "d:\\gitexercise3\\gitexercise3.csproj",
         "projectName": "gitexercise3",
-        "projectPath": "D:\\gitexercise3\\gitexercise3.csproj",
+        "projectPath": "d:\\gitexercise3\\gitexercise3.csproj",
         "packagesPath": "C:\\Users\\mano.selvaraj\\.nuget\\packages\\",
-        "outputPath": "D:\\gitexercise3\\obj\\",
+        "outputPath": "d:\\gitexercise3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mano.selvaraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
