@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mano.selvaraj\\.nuget\\packages\\": {}
+    "C:\\Users\\sanjai.harikrishnan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gitexercise3\\gitexercise3.csproj",
+      "projectUniqueName": "c:\\Users\\sanjai.harikrishnan\\Desktop\\mano\\praticegithub\\gitexercise3.csproj",
       "projectName": "gitexercise3",
-      "projectPath": "D:\\gitexercise3\\gitexercise3.csproj",
-      "packagesPath": "C:\\Users\\mano.selvaraj\\.nuget\\packages\\",
-      "outputPath": "D:\\gitexercise3\\obj\\",
+      "projectPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\mano\\praticegithub\\gitexercise3.csproj",
+      "packagesPath": "C:\\Users\\sanjai.harikrishnan\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\sanjai.harikrishnan\\Desktop\\mano\\praticegithub\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mano.selvaraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\sanjai.harikrishnan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
